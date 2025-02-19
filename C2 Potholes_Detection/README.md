@@ -27,4 +27,4 @@ python prediction.py
 
 ## 📚 References
 
-https://docs.ultralytics.com/
+For additional information, visit: https://docs.ultralytics.com/

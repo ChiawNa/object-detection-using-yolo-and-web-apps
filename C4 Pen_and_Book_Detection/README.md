@@ -4,7 +4,7 @@ This repository provides a setup for detecting pen and books using YOLOv8 on a W
 
 ## 📂Folder Contents
 
-- **🐍predictions.py** –  Python script for performing Personal Protective Equipment detection on an image, video and live webcam.
+- **🐍predictions.py** –  Python script for performing pen and books detection on an image, video and live webcam.
 
 ## ⚙️Requirements
 

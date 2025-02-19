@@ -4,7 +4,7 @@ This repository provides a setup for detecting Personal Protective Equipment usi
 
 ## 📂Folder Contents
 
-- **🐍prediction.py** –  Python script for performing Personal Protective Equipment detection on an image, video and live webcam.
+- **🐍predictions.py** –  Python script for performing Personal Protective Equipment detection on an image, video and live webcam.
 - **🎬InputDemoVideo folder** – Demonstration video of the detection process.
 
 ## ⚙️Requirements

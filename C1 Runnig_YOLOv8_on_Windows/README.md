@@ -25,7 +25,6 @@ pip install ultralytics
 python prediction.py
 ```
 
-
 ## 📚 References
 
 https://docs.ultralytics.com/

@@ -5,5 +5,7 @@ model = YOLO("yolov8n.pt")
 
 ##Predict Method Takes all the parameters of the Command Line Interface
 
-model.predict(source='image1.jpg', save=True, conf=0.5, save_txt=True)
+model.predict(source='demo.mp4', save=True, conf=0.5, save_txt=True)
 # model.export(format="onnx")
+
+

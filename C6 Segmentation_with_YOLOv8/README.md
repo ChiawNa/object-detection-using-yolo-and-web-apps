@@ -23,6 +23,12 @@ pip install ultralytics
 python predictions.py
 ```
 
+## 🎥Demo
+
+Watch the full demo video on YouTube: https://www.youtube.com/watch?v=u1sZMnYuG5g
+
+<img src="https://github.com/user-attachments/assets/74aec368-6be1-4d5b-99af-de4ecb144371" width="800">
+
 ## 📚 References
 
 For additional information, visit: https://docs.ultralytics.com/
